@@ -1,4 +1,4 @@
-package com.rockhill.rmqconsumer.rabbitmq;
+package com.rockhill.rmqconsumer.RabbitMQ;
 
 
 import org.springframework.amqp.core.*;
@@ -9,7 +9,7 @@ import org.springframework.amqp.support.converter.MessageConverter;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
-import static com.rockhill.rmqconsumer.rabbitmq.Constants.*;
+import static com.rockhill.rmqconsumer.RabbitMQ.Constants.*;
 
 @Configuration
 public class MQConfig {

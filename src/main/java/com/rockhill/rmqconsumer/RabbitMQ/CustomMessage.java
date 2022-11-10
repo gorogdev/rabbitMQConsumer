@@ -1,4 +1,4 @@
-package com.rockhill.rmqconsumer.rabbitmq;
+package com.rockhill.rmqconsumer.RabbitMQ;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
